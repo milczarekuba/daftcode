@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71cfcdc0-279b-469a-8d47-d648cc4b7582" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1Ztgww3ri70UKVrJJPy0U3txEOO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71cfcdc0-279b-469a-8d47-d648cc4b7582" name="Default Changelist" comment="" />
+      <created>1585664046346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585664046346</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="828" y="205" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585664324232">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="828" y="205" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-3.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1585664324232" />
+    <state x="1232" y="353" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585664501155">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1232" y="353" key="#com.intellij.fileTypes.FileTypeChooser/1920.-3.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1585664501155" />
+    <state x="1201" y="304" key="FileChooserDialogImpl" timestamp="1585664309935">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1201" y="304" key="FileChooserDialogImpl/1920.-3.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1585664309935" />
+    <state x="922" y="192" key="SettingsEditor" timestamp="1585664312010">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="922" y="192" key="SettingsEditor/1920.-3.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1585664312010" />
+    <state x="1283" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585664530329">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1283" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.-3.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1585664530329" />
+  </component>
+</project>
